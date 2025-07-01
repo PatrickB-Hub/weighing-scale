@@ -1,0 +1,10 @@
+<svg class="bear-icon" viewBox="0 0 35 44" aria-hidden="true">
+  <path
+    d="M8 13C0 11 2 1 9 3l4 3q5-3 9 0l4-3c7-2 10 8 2 11q3 6-1 10c9 2 7 12 1 10q2 9-6 8l-5-4-5 4c-8 1-8-7-6-9-7 1-8-9 0-10q-2-4 2-10"
+    fill="var(--bear-color)"
+  />
+  <ellipse cx="17.5" cy="20" rx="6" ry="4" fill="#ffffff" opacity=".19" />
+  <circle cx="12" cy="14" r="1" fill="#000000" opacity=".22" />
+  <circle cx="23" cy="14" r="1" fill="#000000" opacity=".22" />
+  <ellipse cx="11" cy="10" rx="3" ry="5" fill="#ffffff" opacity=".17" />
+</svg>
