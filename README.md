@@ -1,4 +1,4 @@
-# A Little Balance
+# Weighing-Scale
 
 A browser physics study: a classic brass balance, five calibrated weights and eight original gummy bears. Built with TypeScript, SCSS, Three.js and Rapier. Desktop first, with a responsive mobile layout and keyboard-accessible placement controls.
 
