@@ -2,6 +2,8 @@
 
 A browser physics study: a classic brass balance, five calibrated weights and eight original gummy bears. Built with TypeScript, SCSS, Three.js and Rapier. Desktop first, with a responsive mobile layout and keyboard-accessible placement controls.
 
+**Live:** [waage.patrickbecker.work](https://waage.patrickbecker.work)
+
 ## Run
 
 Use Node.js 22.12+
